@@ -25,7 +25,7 @@ The analyses are presented in four notebooks:
 - *[Exploratory Data Analysis (Part I)](https://github.com/AmyZeng2021/HealthCare_Fraud_Detection/blob/main/HFD_EDA-Part_1.ipynb)*
 - *[Exploratory Data Analysis (Part II)](https://github.com/AmyZeng2021/HealthCare_Fraud_Detection/blob/main/HFD_EDA-Part_2.ipynb)*
 - *[Exploratory Data Analysis (Part III)](https://github.com/AmyZeng2021/HealthCare_Fraud_Detection/blob/main/HFD_EDA-Part_3.ipynb)*
-- *[Feature Engineering and Modelling](https://github.com/AmyZeng2021/HealthCare_Fraud_Detection/blob/main/HFD_Modeling_with_Test_Data.ipynb)*
+- *[Feature Engineering and Model Section](https://github.com/AmyZeng2021/HealthCare_Fraud_Detection/blob/main/HFD_Modeling_with_Test_Data.ipynb)*
   
 ## Model Evaluation 
 ***Evaluation Metrics***:
