@@ -28,7 +28,8 @@ The analyses are presented in four notebooks:
 - *[Feature Engineering and Modelling](https://github.com/AmyZeng2021/HealthCare_Fraud_Detection/blob/main/HFD_Modeling_with_Test_Data.ipynb)*
   
 ## Model Evaluation 
-*Evaluation Metrics*:
+***Evaluation Metrics***:
+
 ```
                       Accuracy --     F1      --  Precision --  Recall
 XGBoost:             1.000000  --  1.000000   --  1.000000  --  1.000000
@@ -46,7 +47,8 @@ ElasticNet:          0.946239  --  0.927066   --  0.957096  --  0.898864
 ADA:                 0.924948  --  0.897513   --  0.933111  --  0.864532
 ```
 
-*ROC Curves and AUC Scores*
+***ROC Curves and AUC Scores***：
+
 <img width="469" height="453" alt="image" src="https://github.com/user-attachments/assets/91cd659a-c4f0-4351-8574-d40d00f6b8f1" />
 
 ## Conclusion
