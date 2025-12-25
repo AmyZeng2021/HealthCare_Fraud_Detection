@@ -17,7 +17,7 @@ All other parameters and their relationships with the fraud providers were exami
 
 ## Modelling strategy
 
-A large range of commonly used machine learning models were employed, including: Linear Regression， Logistic Regression， Ridge Regression， Lasso Regression， Elastic Net. Random Forest, Gradient Boosting Machine (GBM), AdaBoost, XGBoost, LightGBM, CatBoost, k-Nearest Neighbors (k-NN), Feedforward Neural Networks (FNN / MLP) etc.
+A large range of commonly used machine learning models were employed, including: Linear Regression, Logistic Regression, Ridge Regression, Lasso Regression, Elastic Net, Random Forest, Gradient Boosting Machine (GBM), AdaBoost, XGBoost, LightGBM, CatBoost, k-Nearest Neighbors (k-NN), Feedforward Neural Networks (FNN / MLP) etc.
 
 
 ## Model Evaluation 
